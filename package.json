@@ -1,0 +1,16 @@
+{
+  "name": "lab-news",
+  "version": "1.0.0",
+  "description": "Laboratoria news.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "firebase": "^4.1.3"
+  }
+}
